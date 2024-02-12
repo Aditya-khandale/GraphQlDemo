@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\GraphQLDemo\GraphQLDemo.API\obj\Debug\net7.0\GraphQLDemo.API.MvcApplicationPartsAssemblyInfo.cache
